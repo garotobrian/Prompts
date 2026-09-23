@@ -1,0 +1,72 @@
+Prompts experimentais utilizados na geração dos planos de aula, classificados por nível de especificidade
+
+Nível de especificidade 
+P1 – Baixa especificidade 
+P2 – Média especificidade 
+P3 – Alta especificidade 
+
+EF08CO08
+P1 - Crie um plano de aula de Computação para o 8° ano do Ensino Fundamental considerando a habilidade EF08CO08 da BNCC Computação
+
+P2 - Crie um plano de aula de Computação para estudantes do 8° ano do Ensino Fundamental, com duração de 50 minutos, sobre dados pessoais e segurança digital, considerando
+  a habilidade EF08CO08 da BNCC Computação
+
+P3 - Elabore um plano de aula de Computação para uma turma do 8º ano do Ensino Fundamental, com duração de 50 minutos, considerando a habilidade EF08CO08 da BNCC Computação: distinguir 
+  os tipos de dados pessoais solicitados em espaços digitais e os riscos associados. A aula deve partir de situações próximas ao cotidiano dos estudantes, como jogos on-line, redes 
+  sociais, aplicativos e sites. Proponha uma atividade prática na qual os estudantes analisem situações fictícias de solicitação de dados pessoais e discutam os riscos envolvidos.
+	Organize o plano contendo: objetivo de aprendizagem, habilidade da BNCC, conteúdos, duração, metodologia, etapas da aula, atividade prática, recursos, avaliação da aprendizagem e 
+  possibilidades de adaptação para diferentes necessidades dos estudantes. A atividade deve ser adequada à faixa etária do 8º ano, deve ser viável em uma escola com recursos tecnológicos 
+  limitados e evitar a utilização de dados pessoais reais dos estudantes.
+	Garanta que as atividades propostas estejam diretamente relacionadas à habilidade EF08CO08 e que a avaliação permita verificar se os estudantes conseguiram desenvolver a habilidade.
+
+EF08CO10
+P1 - Crie um plano de aula de Computação para o 8° ano do Ensino Fundamental considerando a habilidade EF08CO10 da BNCC Computação
+
+P2 - Crie um plano de aula de Computação para estudantes do 8° ano do Ensino Fundamental, com duração de 50 minutos, sobre segurança e privacidade relacionadas ao uso dos ambientes 
+  virtuais, considerando a habilidade EF08CO10 da BNCC Computação
+
+P3 - Elabore um plano de aula de Computação para uma turma do 8º ano do Ensino Fundamental, com duração de 50 minutos, considerando a habilidade EF08CO10 da BNCC Computação: segurança e 
+  privacidade relacionadas ao uso dos ambientes virtuais. A aula deve partir de situações próximas ao cotidiano dos estudantes, como jogos on-line, redes sociais, aplicativos e sites. 
+  Proponha uma atividade prática na qual os estudantes analisem situações fictícias de segurança e privacidade relacionadas ao uso dos ambientes virtuais. 
+	Organize o plano contendo: objetivo de aprendizagem, habilidade da BNCC, conteúdos, duração, metodologia, etapas da aula, atividade prática, recursos, avaliação da aprendizagem e 
+  possibilidades de adaptação para diferentes necessidades dos estudantes. A atividade deve ser adequada à faixa etária do 8º ano, deve ser viável em uma escola com recursos tecnológicos 
+  limitados e evitar a utilização de dados pessoais reais dos estudantes.
+	Garanta que as atividades propostas estejam diretamente relacionadas à habilidade EF08CO10 e que a avaliação permita verificar se os estudantes conseguiram desenvolver a habilidade.
+
+EF08CO02
+P1 - Crie um plano de aula de Computação para o 8° ano do Ensino Fundamental considerando a habilidade EF08CO02 da BNCC Computação
+
+P2 - Crie um plano de aula de Computação para estudantes do 8° ano do Ensino Fundamental, com duração de 50 minutos, sobre desenvolver soluções de problemas para os quais seja adequado
+  o uso de listas para descrever suas informações e automatizá-las usando uma linguagem de programação, empregando ou não a recursão como uma técnica de resolver o problema, considerando 
+  a habilidade EF08CO02 da BNCC Computação.
+
+P3 - Elabore um plano de aula de Computação para uma turma do 8º ano do Ensino Fundamental, com duração de 50 minutos, considerando a habilidade EF08CO02 da BNCC Computação: Criar soluções
+  de problemas para os quais seja adequado o uso de listas para descrever suas informações e automatizá-las usando uma linguagem de programação, empregando ou não a recursão como uma 
+  técnica de resolver o problema. 
+  A aula deve partir de situações próximas ao cotidiano dos estudantes, como jogos on-line, redes sociais, aplicativos e sites. Proponha uma atividade prática na qual os estudantes 
+  criam soluções de problemas para os quais seja adequado o uso de listas para descrever suas informações e automatizá-las usando uma linguagem de programação ou não a recursão como 
+  uma técnica de resolver o problema. 
+  Organize o plano contendo: objetivo de aprendizagem, habilidade da BNCC, conteúdos, duração, metodologia, etapas da aula, atividade prática, recursos, avaliação da aprendizagem e 
+  possibilidades de adaptação para diferentes necessidades dos estudantes. A atividade deve ser adequada à faixa etária do 8º ano, deve ser viável em uma escola com recursos tecnológicos 
+  limitados e evitar a utilização de dados pessoais reais dos estudantes.
+  Garanta que as atividades propostas estejam diretamente relacionadas à habilidade EF08CO02 e que a avaliação permita verificar se os estudantes conseguiram desenvolver a habilidade.
+
+EF08CO04
+P1 - Crie um plano de aula de Computação para o 8° ano do Ensino Fundamental considerando a habilidade EF08CO04 da BNCC Computação
+
+P2 - Crie um plano de aula de Computação para estudantes do 8° ano do Ensino Fundamental, com duração de 50 minutos, Construindo soluções computacionais de problemas de diferentes áreas do 
+  conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando saberes escolares, considerando a habilidade EF08CO04 
+  da BNCC Computação.
+
+P3 - Elabore um plano de aula de Computação para uma turma do 8º ano do Ensino Fundamental, com duração de 50 minutos, considerando a habilidade EF08CO04 da BNCC Computação: Construir soluções 
+  computacionais de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e articulando 
+  saberes escolares.
+  A aula deve partir de situações próximas ao cotidiano dos estudantes, como jogos on-line, redes sociais, aplicativos e sites. Proponha uma atividade prática na qual os 
+  estudantes criam soluções de problemas de diferentes áreas do conhecimento, de forma individual e colaborativa, selecionando as estruturas de dados e técnicas adequadas, aperfeiçoando e 
+  articulando saberes escolares.
+  Organize o plano contendo: objetivo de aprendizagem, habilidade da BNCC, conteúdos, duração, metodologia, etapas da aula, atividade prática, recursos, avaliação da aprendizagem e 
+  possibilidades de adaptação para diferentes necessidades dos estudantes.
+  A atividade deve ser adequada à faixa etária do 8º ano, deve ser viável em uma escola com recursos tecnológicos 
+  limitados e evitar a utilização de dados pessoais reais dos estudantes.
+	Garanta que as atividades propostas estejam diretamente relacionadas à habilidade EF08CO04 e que a avaliação permita verificar se os estudantes conseguiram desenvolver a habilidade.
+
